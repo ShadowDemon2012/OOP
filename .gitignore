@@ -1,1 +1,4 @@
-/OOP.iml
+/out/
+/.idea/
+*.iml
+*.class
